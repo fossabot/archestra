@@ -7,6 +7,7 @@
 - 💻 **Local-First Architecture** — Privacy-focused design with local LLM.
 
 ![Archestra Screenshot](./docs/assets/screenshot.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frijnhardtkotze%2Farchestra.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frijnhardtkotze%2Farchestra?ref=badge_shield)
 
 <div align="center">
 
@@ -80,3 +81,7 @@ Thank you for contributing and continuously making <b>Archestra</b> better, <b>y
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.archestra.ai/blog/archestra-joins-cncf-linux-foundation"><img src="./docs/assets/cncf-logo.png" height="50" alt="CNCF" /></a>
 </div>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frijnhardtkotze%2Farchestra.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frijnhardtkotze%2Farchestra?ref=badge_large)
